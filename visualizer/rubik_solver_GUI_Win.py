@@ -1,12 +1,4 @@
-# Created by Anh Nguyen 
-# MIT 6.006 - Fall 2008,     
-#             Fall 2011
-#
-# This application created the GUI for pocket cube solver. Its main features are:
-# - Get input from users in a visual and convenient way.
-# - Call up solver.py through RubikAbstraction.py to solve the cube.
-# - Display solution in an intuitive way.
-# Notes: This is created for Windows to match the font, size, and button behavior in Tk
+
 
 from Tkinter import *
 from RubikAbstraction import *

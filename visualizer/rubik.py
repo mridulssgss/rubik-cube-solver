@@ -1,9 +1,4 @@
-# rubik.py
-# Author: Ronald L. Rivest
-# Modified: Michael Lieberman
-# Last updated: October 24, 2008
-#
-# Routines to work with Rubik's 2x2x2 cube
+
 
 """
 We'll call the six sides, as usual:
